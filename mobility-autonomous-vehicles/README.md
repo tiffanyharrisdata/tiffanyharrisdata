@@ -2,6 +2,10 @@
 
 This project explores global electric vehicle (EV) adoption trends from 2010 to 2024 to assess how market maturity and infrastructure readiness could influence autonomous vehicle (AV) deployment. Using Tableau and a dataset from the IEA (International Energy Agency), I visualized EV growth, sales share by powertrain, and regional market strength to highlight where AV scalability may be most feasible.
 
+
+🔗 *[View Tableau Dashboard Here!!](https://public.tableau.com/views/EVMarketReadinessAVImplications/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*
+
+
 ---
 
 ## 🎯 Project Objective
@@ -65,7 +69,6 @@ Rank current leaders by total sales
 ▶ **Dynamic Filters**  
 Filter by Year, Country, and Powertrain type
 
-🔗 *[View Tableau Dashboard Here!!](https://public.tableau.com/views/EVMarketReadinessAVImplications/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*
 
 ---
 
