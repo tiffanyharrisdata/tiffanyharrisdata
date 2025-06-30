@@ -2,7 +2,7 @@
 
 This project explores the evolution of computation in large AI models, analyzing how hardware capabilities and compute scaling have accelerated across organizations and model architectures.
 
-[Tableau Dashborad](https://public.tableau.com/app/profile/tiffany.harris8591/viz/BriefoverviewofAIcomputegrowth/Dashboard1)
+[Tableau Dashborad](https://public.tableau.com/views/BriefoverviewofAIcomputegrowth/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ---
 
 ## 🧭 Project Overview
