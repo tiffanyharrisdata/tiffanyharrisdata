@@ -2,7 +2,7 @@
 
 This project explores the evolution of computation in large AI models, analyzing how hardware capabilities and compute scaling have accelerated across organizations and model architectures.
 
-#### 🔗 [Tableau Dashborad](https://public.tableau.com/views/BriefoverviewofAIcomputegrowth/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+#### 🔗 [View Tableau Dashborad Here!](https://public.tableau.com/views/BriefoverviewofAIcomputegrowth/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ---
 
 ## 🧭 Project Overview
