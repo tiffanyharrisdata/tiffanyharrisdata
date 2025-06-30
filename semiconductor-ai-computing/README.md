@@ -17,6 +17,7 @@ This project explores the evolution of computation in large AI models, analyzing
 
 - **Jupyter Notebook** – Data cleaning, feature engineering, and visualizations
 - **Tableau** – Interactive dashboard to visualize compute growth and performance
+- **Google Sheets** – Lightweight EDA and exploratory metrics
 
 ---
 
@@ -39,3 +40,29 @@ This project explores the evolution of computation in large AI models, analyzing
 | `MMLU avg` | Average performance on Massive Multitask Language Understanding benchmark |
 | `Training computation (petaFLOP)` | Compute used to train the model |
 | `Organization` | Research group or company behind the model |
+
+---
+
+## 📈 Sample Insights
+
+- **Exponential Growth**: Training compute has increased from ~36,000 petaFLOPs (GPT-2) to 80 billion (Gemini Ultra) in just four years.
+- **Diminishing Returns**: After a certain compute threshold (~2.5B petaFLOPs), performance gains (MMLU) show signs of plateauing.
+- **Org Spotlight**: Google DeepMind and OpenAI dominate high-compute, high-performance model development.
+
+---
+
+## 🧠 Visualization Previews
+
+Include:
+- **Line chart**: Training compute over time by organization
+- **Scatter plot**: Compute vs. MMLU Score (log scale)
+- **Bar chart**: Top 5 most compute-intensive models
+- **Box plot**: Compute efficiency (MMLU per petaFLOP) by organization
+
+---
+
+## 🚀 Future Work
+
+- Include **inference compute** and energy usage if available
+- Add **parameter count** and **training duration**
+- Integrate semiconductor hardware info (e.g. TPU, GPU type used)
