@@ -59,8 +59,6 @@ Include:
 - **Bar chart**: Top 5 most compute-intensive models
 - **Box plot**: Compute efficiency (MMLU per petaFLOP) by organization
 
-## Data Pulled from Kaggle
-
 ---
 
 ## 🚀 Future Work
@@ -68,3 +66,7 @@ Include:
 - Include **inference compute** and energy usage if available
 - Add **parameter count** and **training duration**
 - Integrate semiconductor hardware info (e.g. TPU, GPU type used)
+
+
+
+## Data Pulled from Kaggle
