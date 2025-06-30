@@ -59,6 +59,8 @@ Include:
 - **Bar chart**: Top 5 most compute-intensive models
 - **Box plot**: Compute efficiency (MMLU per petaFLOP) by organization
 
+## Data Pulled from Kaggle
+
 ---
 
 ## 🚀 Future Work
