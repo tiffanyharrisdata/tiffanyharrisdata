@@ -11,7 +11,7 @@
 1. Semiconductor Industry: AI Computation & Hardware Trends       
 Focus: Market mapping, R&D trends, competitive benchmarking.  
 Tools: SQL, Tableau  
-[View Project →](./semiconductor-ai-computing/README.md)  Being Uploaded Currently
+[View Project →](./semiconductor-ai-computing/README.md)  
 2. Mobility: Autonomous Vehicle Startup Trends   
 Focus: Funding trends, company mapping, tech stack analysis.  
 Tools: Google Sheets, Jupyter Notebook   
