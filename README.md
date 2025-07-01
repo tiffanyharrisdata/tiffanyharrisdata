@@ -38,5 +38,6 @@ Tableau | Google Sheets | MySQL | Agile | Pandas | Jupyter Notebook
 
 ### 📱 Connect with me
 - [LinkedIn](www.linkedin.com/in/tiffanyharris08)
+  - If you run into issues, please use this link www.linkedin.com/in/tiffanyharris08
 - [Tableau](https://public.tableau.com/app/profile/tiffany.harris8591/vizzes)
 
