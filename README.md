@@ -15,11 +15,11 @@ Tools: SQL, Tableau
 2. Mobility: Autonomous Vehicle Startup Trends   
 Focus: Funding trends, company mapping, tech stack analysis.  
 Tools: Google Sheets, Jupyter Notebook   
-[View Project →](./mobility-autonomous-vehicles/README.md)  Being Uploaded Currently
+[View Project →](./mobility-autonomous-vehicles/README.md)  
 3. Pharma: GLP-1 Receptor Agonist Market   
 Focus: Market size, efficacy comparisons, FDA approval timelines.  
 Tools: SQL, Tableau  
-[View Project →](./pharma-glp1-analysis/README.md)   Being Uploaded Currently
+[View Project →](./pharma-glp1-analysis/README.md)   
 
 
 
