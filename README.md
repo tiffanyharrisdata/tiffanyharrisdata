@@ -4,7 +4,7 @@
 
 ### Hello, I'm Tiffany! Part data detective, part dashboard artist, part process improvement magician, full-on efficiency machine. I don’t just report numbers — I spin them into actionable **GOLD!**
 
-
+  
 
 ### 🔍 Projects 
 
