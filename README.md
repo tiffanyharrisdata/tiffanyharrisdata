@@ -8,10 +8,10 @@ Welcome! I'm Tiffany — part data detective, part dashboard artist, part proces
 
 ## 🔍 About Me
 
-- 🎯 Data & Operations Specialist with 5+ years experience
-- 🧠 Cross-functional communicator: Engineering, Product, CX
-- 🛠️ Tools: SQL, Tableau, Google Sheets, Python (Pandas), Jupyter Notebook
-- 🧭 Focus Areas: Data storytelling, reporting systems, stakeholder enablement, Process Improvement, CX
+- 🎯 CX & Operations Specialist with 7+ years experience
+- 🧠 Cross-functional communicator: Engineering, Product, CX, Data
+- 🛠️ Tools: SQL, Tableau, Power BI, Google Sheets, Python (Pandas), Jupyter Notebook
+- 🧭 Focus Areas: Data storytelling, Process Improvement, CX, Project Management, stakeholder enablement
 
 ---
 
