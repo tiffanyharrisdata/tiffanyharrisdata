@@ -8,10 +8,10 @@ Welcome! I'm Tiffany — part data detective, part dashboard artist, part proces
 
 ## 🔍 About Me
 
-- 🎯 CX & Operations Specialist with 7+ years experience
+- 🎯 CX & Operations Analyst with 7+ years experience
 - 🧠 Cross-functional communicator: Engineering, Product, CX, Data
-- 🛠️ Tools: SQL, Tableau, Power BI, Google Sheets, Python (Pandas), Jupyter Notebook
-- 🧭 Focus Areas: Data storytelling, Process Improvement, CX, Project Management, stakeholder enablement
+- 🛠️ Tools: SQL, Tableau, Power BI, Google Sheets, AI Annotation, 
+- 🧭 Focus Areas: Data Analysis, Process Improvement, CX, Project Management, AI Training
 
 ---
 
@@ -70,7 +70,7 @@ Using synthetic data modeled after real-world financial reports, this project tr
 ## 📬 Let's Connect
 
 **Tiffany Harris**  
-🔗 [LinkedIn](https://www.linkedin.com/in/tiffanyharris08/) | 📧 [Email](tharrisofficially@gmail.com) | [Tableau](https://public.tableau.com/app/profile/tiffany.harris8591/vizzes)
+🔗 [LinkedIn](https://www.linkedin.com/in/tiffanyharris08/) | [Tableau](https://public.tableau.com/app/profile/tiffany.harris8591/vizzes)
 
 ---
 
